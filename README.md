@@ -1,8 +1,16 @@
 # Pink Noise Generator
 
+![LB0002 prototype build](https://raw.githubusercontent.com/simtelic/lab0002-pink-noise-generator/refs/heads/main/resources/lab0002.png)
+
 This kit offers a simple yet effective DIY pink noise generator. It features a compact and user-friendly design that utilizes only three transistors and one operational amplifier, making it a cost-effective and educational option for exploring the unique characteristics of pink noise. All components are through-hole, ensuring that assembly is straightforward and suitable for hobbyists of varying skill levels.
 
 The pink-noise generator operates with a DC power supply ranging from 12V to 18V and includes a single audio output that can be directly connected to a power amplifier or preamplifier for further amplification and playback.
+
+This is an open hardware project, and all design files are available in this repository. You can also [order an unassembled DIY kit from Simtelic](https://simtelic.com/product/pink-noise-generator/), which includes the PCB and all the necessary components for assembly and testing.
+
+[PCBWay](https://www.pcbway.com) sponsors this project, and you can [directly order the PCB](https://www.pcbway.com/project/shareproject/Analog_pink_noise_generator_595b019c.html) from them as well.
+
+The [datasheet](https://simtelic.com/datasheet.php?id=lb0002) and [user manual](https://simtelic.com/datasheet.php?id=lb0002) for this project are available at [simtelic.com](https://simtelic.com).
 
 ## Bill of Materials
 
@@ -37,4 +45,3 @@ The pink-noise generator operates with a DC power supply ranging from 12V to 18V
 | TP101                    | [Test pin (optional)](https://s.click.aliexpress.com/e/_olBI9cC)  | 1        |                                                                                     |
 
 *All resistors are 5% 1/4W unless otherwise noted*
-
