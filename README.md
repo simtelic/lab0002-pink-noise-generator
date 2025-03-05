@@ -4,7 +4,7 @@ This kit offers a simple yet effective DIY pink noise generator. It features a c
 
 The pink-noise generator operates with a DC power supply ranging from 12V to 18V and includes a single audio output that can be directly connected to a power amplifier or preamplifier for further amplification and playback.
 
-Bill of Materials
+## Bill of Materials
 
 | Designator               | Value                                                             | Quantity | Notes                                                                               |
 |--------------------------|-------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------|
